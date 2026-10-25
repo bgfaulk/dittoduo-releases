@@ -1,6 +1,6 @@
 # DittoDuo releases
 
-Signed, notarized downloads of [DittoDuo](https://dittoduo.vercel.app), a clipboard history manager for macOS 15 (Sequoia) or later.
+Signed, notarized downloads of [DittoDuo](https://dittoduo.io), a clipboard history manager for macOS 15 (Sequoia) or later.
 
 - Latest DMG: https://github.com/bgfaulk/dittoduo-releases/releases/latest/download/DittoDuo.dmg
 - Homebrew: `brew install --cask bgfaulk/tap/dittoduo`
